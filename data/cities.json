@@ -1,0 +1,286 @@
+{
+    "cities": [
+        {
+            "name": "Calgary",
+            "description": "Calgary is a vibrant city in Alberta, Canada, known for its rodeo events and rich cultural scene.",
+            "latitude": 51.0486,
+            "longitude": -114.0708,
+            "colleges": [
+                "University of Calgary",
+                "Mount Royal University",
+                "SAIT"
+            ]
+        },
+        {
+            "name": "Edmonton",
+            "description": "Edmonton is the capital city of Alberta, Canada, known for its beautiful river valley, festivals, and historic sites.",
+            "latitude": 53.5444,
+            "longitude": -113.4909,
+            "colleges": [
+                "University of Alberta",
+                "MacEwan University",
+                "NAIT"
+            ]
+        },
+        {
+            "name": "Banff",
+            "description": "Banff is a picturesque town located in Alberta's Rocky Mountains, famous for its stunning natural scenery and outdoor activities.",
+            "latitude": 51.1774,
+            "longitude": -115.5688,
+            "colleges": []
+        },
+        {
+            "name": "Vancouver",
+            "description": "Vancouver is a coastal city in British Columbia, known for its beautiful parks and outdoor activities.",
+            "latitude": 49.2827,
+            "longitude": -123.1207,
+            "colleges": [
+                "University of British Columbia",
+                "Simon Fraser University",
+                "Emily Carr University of Art + Design"
+            ]
+        },
+        {
+            "name": "Victoria",
+            "description": "Victoria is the capital city of British Columbia, situated on Vancouver Island, known for its historic architecture and beautiful gardens.",
+            "latitude": 48.4284,
+            "longitude": -123.3656,
+            "colleges": [
+                "University of Victoria",
+                "Camosun College",
+                "Royal Roads University"
+            ]
+        },
+        {
+            "name": "Whistler",
+            "description": "Whistler is a resort town in British Columbia, famous for its ski slopes, outdoor adventures, and vibrant village atmosphere.",
+            "latitude": 50.1163,
+            "longitude": -122.9574,
+            "colleges": []
+        },
+        {
+            "name": "Winnipeg",
+            "description": "Winnipeg is the capital city of Manitoba, Canada, known for its beautiful river valley, festivals, and historic sites.",
+            "latitude": 49.8951,
+            "longitude": -97.1384,
+            "colleges": [
+                "University of Manitoba",
+                "University of Winnipeg",
+                "Red River College"
+            ]
+        },
+        {
+            "name": "Brandon",
+            "description": "Brandon is a city in Manitoba, Canada, known for its vibrant community and cultural events. It is often referred to as the 'Wheat City' due to its rich agricultural history.",
+            "latitude": 49.8483,
+            "longitude": -99.9546,
+            "colleges": [
+                "Brandon University"
+            ]
+        },
+        {
+            "name": "Steinbach",
+            "description": "Steinbach is a city in southeastern Manitoba, Canada, known for its thriving community, cultural diversity, and strong Mennonite heritage.",
+            "latitude": 49.5277,
+            "longitude": -96.6926,
+            "colleges": []
+        },
+        {
+            "name": "Fredericton",
+            "description": "Fredericton is the capital city of New Brunswick, Canada, known for its rich history, beautiful riverside setting, and vibrant cultural scene.",
+            "latitude": 45.9636,
+            "longitude": -66.6431,
+            "colleges": [
+                "University of New Brunswick",
+                "St. Thomas University"
+            ]
+        },
+        {
+            "name": "Saint John",
+            "description": "Saint John is a city in New Brunswick, Canada, known for its historic charm, beautiful waterfront, and maritime heritage. It's the largest city in New Brunswick.",
+            "latitude": 45.2721,
+            "longitude": -66.0628,
+            "colleges": [
+                "University of New Brunswick - Saint John",
+                "New Brunswick Community College (NBCC)"
+            ]
+        },
+        {
+            "name": "Moncton",
+            "description": "Moncton is a city in New Brunswick, Canada, known for its bilingual culture, vibrant arts scene, and economic development. It's one of the fastest-growing cities in the country.",
+            "latitude": 46.1159,
+            "longitude": -64.8019,
+            "colleges": [
+                "Université de Moncton",
+                "Eastern College",
+                "Oulton College"
+            ]
+        },
+        {
+            "name": "St. John's",
+            "description": "St. John's is the capital city of Newfoundland and Labrador, Canada, known for its stunning coastal scenery, colorful row houses, and rich cultural heritage.",
+            "latitude": 47.5615,
+            "longitude": -52.7126,
+            "colleges": []
+        },
+        {
+            "name": "Corner Brook",
+            "description": "Corner Brook is a city in Newfoundland and Labrador, Canada, known for its beautiful location on the Bay of Islands, outdoor recreational opportunities, and cultural events.",
+            "latitude": 48.9535,
+            "longitude": -57.9475,
+            "colleges": []
+        },
+        {
+            "name": "Mount Pearl",
+            "description": "Mount Pearl is a city in Newfoundland and Labrador, Canada, known for its suburban charm, parks, and proximity to St. John's, the provincial capital.",
+            "latitude": 47.5199,
+            "longitude": -52.8034,
+            "colleges": []
+        },
+        {
+            "name": "Halifax",
+            "description": "Halifax is the capital city of Nova Scotia, Canada, known for its stunning coastal scenery, historic architecture, and vibrant cultural scene.",
+            "latitude": 44.6488,
+            "longitude": -63.5752,
+            "colleges": [
+                "Dalhousie University",
+                "Saint Mary's University",
+                "Nova Scotia Community College (NSCC)"
+            ]
+        },
+        {
+            "name": "Dartmouth",
+            "description": "Dartmouth is a city in Nova Scotia, Canada, located on the eastern shore of Halifax Harbour. It is known for its waterfront views, parks, and proximity to Halifax.",
+            "latitude": 44.6659,
+            "longitude": -63.5671,
+            "colleges": []
+        },
+        {
+            "name": "Sydney",
+            "description": "Sydney is a city in Nova Scotia, Canada, known for its industrial heritage, beautiful waterfront, and cultural events. It's located on Cape Breton Island.",
+            "latitude": 46.1367,
+            "longitude": -60.1944,
+            "colleges": [
+                "Cape Breton University",
+                "Nova Scotia Community College (Marconi Campus)"
+            ]
+        },
+        {
+            "name": "Toronto",
+            "description": "Toronto is the capital of Ontario and Canada's largest city, famous for its cultural diversity and economic importance.",
+            "latitude": 43.651070,
+            "longitude": -79.347015,
+            "colleges": [
+                "University of Toronto",
+                "Ryerson University",
+                "York University"
+            ]
+        },
+        {
+            "name": "Ottawa",
+            "description": "Ottawa is the capital city of Canada, known for its historic landmarks, government institutions, and cultural festivals.",
+            "latitude": 45.4215,
+            "longitude": -75.6919,
+            "colleges": [
+                "Carleton University",
+                "University of Ottawa",
+                "Algonquin College"
+            ]
+        },
+        {
+            "name": "Niagara Falls",
+            "description": "Niagara Falls is a popular tourist destination in Ontario, famous for its spectacular waterfalls, entertainment, and scenic views.",
+            "latitude": 43.0896,
+            "longitude": -79.0849,
+            "colleges": []
+        },
+        {
+            "name": "Charlottetown",
+            "description": "Charlottetown is the capital city of Prince Edward Island, Canada, known for its historic charm, beautiful beaches, and as the birthplace of Confederation.",
+            "latitude": 46.2382,
+            "longitude": -63.1311,
+            "colleges": [
+                "University of Prince Edward Island",
+                "Holland College"
+            ]
+        },
+        {
+            "name": "Summerside",
+            "description": "Summerside is a city in Prince Edward Island, Canada, known for its beautiful shoreline, parks, and as a hub for aerospace and information technology industries.",
+            "latitude": 46.4156,
+            "longitude": -63.7895,
+            "colleges": [
+                "Holland College (Summerside Campus)"
+            ]
+        },
+        {
+            "name": "Stratford",
+            "description": "Stratford is a town in Prince Edward Island, Canada, located just across the Hillsborough River from Charlottetown. It offers a peaceful and suburban lifestyle with proximity to the provincial capital.",
+            "latitude": 46.2350,
+            "longitude": -63.1205,
+            "colleges": []
+        },
+        {
+            "name": "Quebec City",
+            "description": "Quebec City is the capital of the province of Quebec, Canada, known for its rich history, French heritage, and stunning architecture. It's one of the oldest cities in North America.",
+            "latitude": 46.8139,
+            "longitude": -71.2080,
+            "colleges": [
+                "Université Laval",
+                "Cégep de Sainte-Foy",
+                "Cégep Limoilou"
+            ]
+        },
+        {
+            "name": "Montreal",
+            "description": "Montreal is the largest city in the province of Quebec, Canada, known for its vibrant multicultural scene, historic architecture, and thriving arts and culture.",
+            "latitude": 45.5017,
+            "longitude": -73.5673,
+            "colleges": [
+                "McGill University",
+                "Université de Montréal",
+                "Concordia University"
+            ]
+        },
+        {
+            "name": "Laval",
+            "description": "Laval is a city in Quebec, Canada, located just north of Montreal. It is known for its diverse communities, cultural events, and recreational opportunities.",
+            "latitude": 45.5699,
+            "longitude": -73.6922,
+            "colleges": [
+                "Université Laval - Campus de Laval",
+                "Collège Montmorency",
+                "Collège Laval"
+            ]
+        },
+        {
+            "name": "Regina",
+            "description": "Regina is the capital city of Saskatchewan, Canada, known for its cultural events, historic architecture, and as the home of the Royal Canadian Mounted Police training academy.",
+            "latitude": 50.4452,
+            "longitude": -104.6189,
+            "colleges": [
+                "University of Regina",
+                "Saskatchewan Polytechnic"
+            ]
+        },
+        {
+            "name": "Saskatoon",
+            "description": "Saskatoon is a city in Saskatchewan, Canada, known for its beautiful riverfront, cultural diversity, and thriving arts and music scene.",
+            "latitude": 52.1332,
+            "longitude": -106.6700,
+            "colleges": [
+                "University of Saskatchewan",
+                "Saskatchewan Polytechnic"
+            ]
+        },
+        {
+            "name": "Prince Albert",
+            "description": "Prince Albert is a city in Saskatchewan, Canada, known for its natural beauty, outdoor recreation, and as the 'Gateway to the North' due to its location in northern Saskatchewan.",
+            "latitude": 53.2001,
+            "longitude": -105.7678,
+            "colleges": [
+                "Carlton Trail College"
+            ]
+        }
+    ]
+}
