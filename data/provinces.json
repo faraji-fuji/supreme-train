@@ -1,0 +1,104 @@
+{
+    "provinces": [
+        {
+            "name": "Alberta",
+            "flag": "alberta-flag.png",
+            "description": "Alberta is a province in western Canada known for its diverse landscapes, including the Rocky Mountains, prairies, and forests. It is famous for its national parks and vibrant cities like Calgary and Edmonton.",
+            "cities": [
+                "Calgary",
+                "Edmonton",
+                "Banff"
+            ]
+        },
+        {
+            "name": "British Columbia",
+            "flag": "bc-flag.png",
+            "description": "British Columbia is a coastal province known for its stunning natural beauty, with the Pacific Ocean, mountains, and rainforests. Vancouver is its largest city.",
+            "cities": [
+                "Vancouver",
+                "Victoria",
+                "Whistler"
+            ]
+        },
+        {
+            "name": "Manitoba",
+            "flag": "manitoba-flag.png",
+            "description": "Manitoba is a Canadian province known for its natural beauty, with over 100,000 lakes, forests, and diverse wildlife. Winnipeg is its capital city.",
+            "cities": [
+                "Winnipeg",
+                "Brandon",
+                "Steinbach"
+            ]
+        },
+        {
+            "name": "New Brunswick",
+            "flag": "new-brunswick-flag.png",
+            "description": "New Brunswick is a maritime province known for its beautiful coastline, rich history, and cultural heritage. Fredericton is its capital city.",
+            "cities": [
+                "Fredericton",
+                "Saint John",
+                "Moncton"
+            ]
+        },
+        {
+            "name": "Newfoundland and Labrador",
+            "flag": "newfoundland-flag.png",
+            "description": "Newfoundland and Labrador is the easternmost province of Canada, known for its rugged coastlines, icebergs, and rich cultural history. St. John's is its capital city.",
+            "cities": [
+                "St. John's",
+                "Corner Brook",
+                "Mount Pearl"
+            ]
+        },
+        {
+            "name": "Nova Scotia",
+            "flag": "nova-scotia-flag.png",
+            "description": "Nova Scotia is a maritime province known for its stunning coastal scenery, historic towns, and vibrant culture. Halifax is its capital city.",
+            "cities": [
+                "Halifax",
+                "Dartmouth",
+                "Sydney"
+            ]
+        },
+        {
+            "name": "Ontario",
+            "flag": "ontario-flag.png",
+            "description": "Ontario is the most populous province in Canada and home to Toronto, its largest city. It's known for its diverse culture, industry, and natural beauty.",
+            "cities": [
+                "Toronto",
+                "Ottawa",
+                "Niagara Falls"
+            ]
+        },
+        {
+            "name": "Prince Edward Island",
+            "flag": "pei-flag.png",
+            "description": "Prince Edward Island is a maritime province known for its beautiful beaches, red sandstone cliffs, and charming villages. Charlottetown is its capital city.",
+            "cities": [
+                "Charlottetown",
+                "Summerside",
+                "Stratford"
+            ]
+        },
+        {
+            "name": "Quebec",
+            "flag": "quebec-flag.png",
+            "description": "Quebec is a French-speaking province in Canada known for its rich history, culture, and diverse landscapes, including the St. Lawrence River. Quebec City is its capital.",
+            "cities": [
+                "Quebec City",
+                "Montreal",
+                "Laval"
+            ]
+        },
+        {
+            "name": "Saskatchewan",
+            "flag": "saskatchewan-flag.png",
+            "description": "Saskatchewan is a prairie province known for its wide-open spaces, beautiful lakes, and outdoor recreational activities. Regina is its capital city.",
+            "cities": [
+                "Regina",
+                "Saskatoon",
+                "Prince Albert"
+            ]
+        }
+    ]
+}
