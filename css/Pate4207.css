@@ -1,0 +1,186 @@
+/* Common CSS for all pages */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+header h1 {
+    font-size: 1.5em;
+}
+
+main {
+    padding: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+
+#province-list {
+    list-style: none;
+    padding: 0;
+}
+
+#province-list li {
+    background-color: #f7f7f7;
+    padding: 15px;
+    border: 1px solid #ddd;
+    margin: 10px 0;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #888888;
+    transition: background-color 0.3s ease;
+}
+
+#province-list li:hover {
+    background-color: #e0e0e0;
+}
+
+
+#backButton {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+#backButton:hover {
+    background-color: #2577af;
+}
+
+#province-details,
+#city-details {
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #888888;
+    margin: 20px 0;
+}
+
+#province-details h2,
+#city-details h2 {
+    margin-top: 0;
+    color: #333;
+    font-size: 24px;
+}
+
+
+/* Link Styles */
+a {
+    color: #3498db;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #2577af;
+}
+
+a:visited {
+    color: #8e44ad;
+}
+
+a:active {
+    color: #e74c3c;
+}
+
+
+/* Styles for cityDetailsDiv content */
+h3 {
+    font-size: 24px;
+    color: #3498db;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+h4 {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    font-size: 14px;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+
+/* Styles for provinceDetailsDiv content */
+h3 {
+    font-size: 24px;
+    color: #3498db;
+    margin-bottom: 10px;
+}
+
+img {
+    max-width: 100%;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+h4 {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    font-size: 14px;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #2577af;
+}
